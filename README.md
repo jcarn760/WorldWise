@@ -10,7 +10,8 @@
 This is a simple single page React application utilizing Vite.
 
 The purpose of this project was to utilize advanced state management with context
-instead of merely prop drilling through many child components to use a prop in a single component
+instead of merely prop drilling through many child components to use a prop in a single component.
+As well as storing state in the URL and using routes.
 
 # Screenshot Examples
 
