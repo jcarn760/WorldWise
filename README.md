@@ -13,15 +13,20 @@ The purpose of this project was to utilize advanced state management with contex
 instead of merely prop drilling through many child components to use a prop in a single component
 
 # Screenshot Examples
-<img width="1512" alt="Screenshot 2025-02-24 at 8 48 03 AM" src="https://github.com/user-attachments/assets/0d692a56-cced-47fa-8d3d-8e929c1e32f5" />
-<img width="1512" alt="Screenshot 2025-02-24 at 8 48 11 AM" src="https://github.co<img width="1512" alt="Screenshot 2025-02-24 at 8 48 20 AM" src="https://github.com/user-attachments/assets/849d82da-8de6-4dd3-b447-2213f0b15594" />
-m/user-attachments/assets/c431d02d-d0e4-4f40-8ef9-3bccccd0c2e3" />
-<img width="1512" alt="Screenshot 2025-02-24 at 8 48 40 AM" src="https://github.com/user-attachments/assets/a41597d3-5dca-4108-950e-132ae5e4c898" />
-<img width="1512" alt="Screenshot 2025-02-24 at 8 48 47 AM" src="https://github.com/user-at<img width="1512" alt="Screenshot 2025-02-24 at 8 48 54 AM" src="https://github.com/user-attachments/assets/79e94ff5-d1ae-4004-b26b-691f69d1e9bc" />
-tachments/assets/189ddd6c-6e7e-4077-af06-30aaf9597491" />
-<img width="1512" alt="Screenshot 2025-02-24 at 8 48 57 AM" src="https://github.com/user-attachments/assets/8c417e6c-2261-47bb-8901-d56412ff73dc" />
 
+<img width="1512" alt="Screenshot 2025-02-24 at 8 48 03 AM" src="https://github.com/user-attachments/assets/7a431a5f-359d-481e-b42b-ec3b6e52fe3c" />
 
+<img width="1512" alt="Screenshot 2025-02-24 at 8 48 11 AM" src="https://github.com/user-attachments/assets/a19ae83f-d9c8-4302-a33f-a896843728b5" />
+
+<img width="1512" alt="Screenshot 2025-02-24 at 8 48 20 AM" src="https://github.com/user-attachments/assets/f248e542-57d7-460c-be78-3d692f7bb3ce" />
+
+<img width="1512" alt="Screenshot 2025-02-24 at 8 48 40 AM" src="https://github.com/user-attachments/assets/c0b4faab-0186-451e-9519-d4f95a047984" />
+
+<img width="1512" alt="Screenshot 2025-02-24 at 8 48 47 AM" src="https://github.com/user-attachments/assets/99a4e55c-1f48-4bbc-8a38-37862d7cb219" />
+
+<img width="1512" alt="Screenshot 2025-02-24 at 8 48 54 AM" src="https://github.com/user-attachments/assets/d607ba62-f5ee-4bbc-a10b-4151a385d81f" />
+
+<img width="1512" alt="Screenshot 2025-02-24 at 8 48 57 AM" src="https://github.com/user-attachments/assets/75935b0c-2a3f-4eda-ab9f-8057e7c84b3e" />
 
 # React + Vite
 
